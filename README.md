@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 -->
 
 [![yadorogi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yadorogi&count_private=true&show_icons=true)](https://github.com/yadorogi/github-readme-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yadorogi&theme=default)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yadorogi&theme=default)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yadorogi&theme=default)
