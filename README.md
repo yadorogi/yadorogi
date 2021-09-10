@@ -22,5 +22,3 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yadorogi&theme=default)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yadorogi&theme=default)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yadorogi&theme=default)
